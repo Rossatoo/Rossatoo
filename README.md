@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Matheus Rossato!
 
-<p><em>I'm currently studying Information Systems at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a> and trainee at <a href="https://avmb.com.br/index.html"> AVMB Soluções em TI.</a></br>:round_pushpin: Santa Maria, Brazil</em></p>
+<p><em>I'm currently studying Information Systems at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a> and Development Analyst at <a href="https://avmb.com.br/index.html"> AVMB Soluções em TI.</a></br>:round_pushpin: Santa Maria, Brazil</em></p>
 
 ##
 
